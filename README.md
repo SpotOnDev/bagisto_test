@@ -53,7 +53,7 @@ An easy to use, free and opensource laravel ecommerce platform to build your onl
 such as [Laravel](https://laravel.com) (a [PHP](https://secure.php.net/) framework) and [Vue.js](https://vuejs.org)
 a progressive Javascript framework.
 
-**Bagisto can help you cut down your time, cost, and workforce for building online stores or migrating from physical stores
+**Bagisto might help you cut down your time, cost, and workforce for building online stores or migrating from physical stores
 to the ever-demanding online world. Your business -- whether small or huge -- can benefit. And it's straightforward to set it up.**
 
 **Read our documentation: [Bagisto Docs](https://devdocs.bagisto.com/)**
